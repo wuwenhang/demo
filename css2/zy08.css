@@ -2,7 +2,7 @@
 * @Author: ll
 * @Date:   2019-06-12 10:12:22
 * @Last Modified by:   ll
-* @Last Modified time: 2019-06-17 14:14:25
+* @Last Modified time: 2019-06-17 14:39:50
 */
 *{
 	margin: 0px;
@@ -110,7 +110,7 @@ select{
 	height: 120px;
 	width: 83px;
 	position: fixed;
-	left: 1808px;
+	left: 1833px;
 	top: 190px;
 }
 .right li{
